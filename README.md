@@ -156,8 +156,7 @@ Las salidas del programa y las pruebas fueron capturadas en el documento:
 ---
 
 ## 🔗 Repositorio Público
-Disponible en: [https://github.com/alejocarmona/proyectoBST_alejandro_carmona](https://github.com/alejocarmona/proyectoBST_alejandro_carmona)
-
+https://github.com/alejandrocarmona1127-design/proyectoBST_alejandro_carmona?tab=readme-ov-file
 **Versión final etiquetada:** `release-unidad1`
 
 ---
